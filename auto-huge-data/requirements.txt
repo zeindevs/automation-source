@@ -1,0 +1,4 @@
+pymongo
+asyncio
+curl_cffi
+rich
